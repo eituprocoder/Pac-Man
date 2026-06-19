@@ -1,0 +1,21 @@
+{
+  "name": "Pac-Man 4D",
+  "short_name": "PacMan4D",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#FFFF00",
+  "icons": [
+    {
+      "src": "Pac-Man 4D.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Pac-Man 4D.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
